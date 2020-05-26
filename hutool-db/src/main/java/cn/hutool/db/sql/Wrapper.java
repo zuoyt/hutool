@@ -178,6 +178,7 @@ public class Wrapper {
 				clonedConditions[i] = clonedCondition;
 			}
 		}
+		//测试
 		
 		return clonedConditions;
 	}
